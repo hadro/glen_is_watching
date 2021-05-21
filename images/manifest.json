@@ -1,0 +1,81 @@
+{
+  "id" : "https://hadro.github.io/glen_is_watching/images/manifest.json",
+  "label" : {
+    "en" : [ "All images loaded in hadro/glen_is_watching project" ]
+  },
+  "type" : "Manifest",
+  "@context" : "http://iiif.io/api/presentation/3/context.json",
+  "items" : [ {
+    "width" : 2872,
+    "id" : "https://hadro.github.io/glen_is_watching/images/Cat668-nyd/canvas/",
+    "label" : {
+      "none" : [ "Cat668-nyd" ]
+    },
+    "type" : "Canvas",
+    "items" : [ {
+      "id" : "https://hadro.github.io/glen_is_watching/images/Cat668-nyd/AnnoPage/",
+      "type" : "AnnotationPage",
+      "items" : [ {
+        "motivation" : "Painting",
+        "id" : "https://hadro.github.io/glen_is_watching/images/Cat668-nyd/annotation/",
+        "type" : "Annotation",
+        "body" : {
+          "service" : [ {
+            "tiles" : [ {
+              "scaleFactors" : [ 32, 16, 8, 4, 2, 1 ],
+              "width" : 1024,
+              "height" : 1024
+            } ],
+            "protocol" : "http://iiif.io/api/image",
+            "sizes" : [ {
+              "width" : 90,
+              "height" : 69
+            }, {
+              "width" : 180,
+              "height" : 137
+            }, {
+              "width" : 359,
+              "height" : 273
+            }, {
+              "width" : 718,
+              "height" : 546
+            }, {
+              "width" : 1436,
+              "height" : 1092
+            }, {
+              "width" : 2872,
+              "height" : 2183
+            } ],
+            "profile" : "level0",
+            "width" : 2872,
+            "id" : "https://hadro.github.io/glen_is_watching/images/Cat668-nyd",
+            "type" : "ImageService3",
+            "@context" : "http://iiif.io/api/image/3/context.json",
+            "height" : 2183
+          } ],
+          "format" : "image/jpeg",
+          "width" : 2872,
+          "id" : "https://hadro.github.io/glen_is_watching/images/Cat668-nyd/full/max/0/default.jpg",
+          "type" : "Image",
+          "height" : 2183
+        },
+        "target" : "https://hadro.github.io/glen_is_watching/images/Cat668-nyd/canvas/"
+      } ]
+    } ],
+    "height" : 2183
+  }, {
+    "id" : "https://hadro.github.io/glen_is_watching/images/service-gmd-gmd416m-g4164m-g4164sm-gpm00001-pa00001d/canvas/",
+    "label" : {
+      "none" : [ "service-gmd-gmd416m-g4164m-g4164sm-gpm00001-pa00001d" ]
+    },
+    "type" : "Canvas",
+    "proccess_id" : "3ca61c3f-5ab1-43b9-ba02-06fcd0fcfabf"
+  }, {
+    "id" : "https://hadro.github.io/glen_is_watching/images/1985.1103 - Stacks of Wheat (End of Summer)/canvas/",
+    "label" : {
+      "none" : [ "1985.1103 - Stacks of Wheat (End of Summer)" ]
+    },
+    "type" : "Canvas",
+    "proccess_id" : "4a22e3f9-f431-428d-b1c4-aaa80f2a0a44"
+  } ]
+}
