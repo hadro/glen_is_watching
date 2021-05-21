@@ -1,0 +1,33 @@
+{
+  "tiles" : [ {
+    "scaleFactors" : [ 32, 16, 8, 4, 2, 1 ],
+    "width" : 1024,
+    "height" : 1024
+  } ],
+  "protocol" : "http://iiif.io/api/image",
+  "sizes" : [ {
+    "width" : 90,
+    "height" : 69
+  }, {
+    "width" : 180,
+    "height" : 137
+  }, {
+    "width" : 359,
+    "height" : 273
+  }, {
+    "width" : 718,
+    "height" : 546
+  }, {
+    "width" : 1436,
+    "height" : 1092
+  }, {
+    "width" : 2872,
+    "height" : 2183
+  } ],
+  "profile" : "level0",
+  "width" : 2872,
+  "id" : "https://hadro.github.io/glen_is_watching/images/Cat668-nyd",
+  "type" : "ImageService3",
+  "@context" : "http://iiif.io/api/image/3/context.json",
+  "height" : 2183
+}
