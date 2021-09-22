@@ -63,19 +63,5 @@
       } ]
     } ],
     "height" : 2183
-  }, {
-    "id" : "https://hadro.github.io/glen_is_watching/images/service-gmd-gmd416m-g4164m-g4164sm-gpm00001-pa00001d/canvas/",
-    "label" : {
-      "none" : [ "service-gmd-gmd416m-g4164m-g4164sm-gpm00001-pa00001d" ]
-    },
-    "type" : "Canvas",
-    "proccess_id" : "3ca61c3f-5ab1-43b9-ba02-06fcd0fcfabf"
-  }, {
-    "id" : "https://hadro.github.io/glen_is_watching/images/1985.1103 - Stacks of Wheat (End of Summer)/canvas/",
-    "label" : {
-      "none" : [ "1985.1103 - Stacks of Wheat (End of Summer)" ]
-    },
-    "type" : "Canvas",
-    "proccess_id" : "4a22e3f9-f431-428d-b1c4-aaa80f2a0a44"
   } ]
 }
